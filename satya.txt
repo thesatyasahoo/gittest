@@ -3,3 +3,4 @@ hell.
 This is a new file
 this is new second file of origin eddited by satya
 This is the new thing in the git repositiry s uploded by satya
+"Satya is a big man of the biger" 
