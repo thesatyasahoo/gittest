@@ -9,8 +9,8 @@ Command 	                                                           |           
 git init 	                                                           |         Initialize a local Git repository
 git clone ssh://git@github.com/[username]/[repository-name].git 	   |        Create a local copy of a remote repository
 Basic Snapshotting                                                         |           
-git config user.email "satyasaho525@gmail.com"                             |                 adding userto pc 
-git config user.name "satyabrata sahoo"                                    |                   addding name
+git config –global user.email "satyasaho525@gmail.com"                     |                 adding userto pc 
+git config –global user.name "satyabrata sahoo"                            |                   addding name
                                                                            |
 									   |									   |
                                                                            |
